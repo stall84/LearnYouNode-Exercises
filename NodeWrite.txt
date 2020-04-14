@@ -1,0 +1,1 @@
+This is an example of a specific string input. We are trying to write this data to a stream. Let's see what happens
